@@ -7,7 +7,7 @@ package assignment;
 import java.util.Scanner;
 /**
  *2
- * @author Umar Jibrin Ndajiya
+ * @author Aso Salim Ahmed
  */
 public class ArithmeticProgression {
     
